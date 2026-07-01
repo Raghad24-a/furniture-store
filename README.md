@@ -32,16 +32,15 @@ A web application for browsing and ordering furniture online.
 ![Home](images/home.png)
 
 ### Products
-![Products](images/products.png)
+![Products](images/Products.png)
 
 ### Item Details
-![Item Details](images/item-details.png)
+![Item Details](images/Product 1.png)
+![Item Details](images/Product 2.png)
 
 ### Shopping Cart
-![Shopping Cart](images/cart.png)
+![Shopping Cart](images/Shopping cart.png)
 
-### Admin Dashboard
-![Admin Dashboard](images/admin.png)
 ## 👩‍💻 Author
 
 Raghad
