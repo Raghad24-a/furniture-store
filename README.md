@@ -35,11 +35,11 @@ A web application for browsing and ordering furniture online.
 ![Products](images/Products.png)
 
 ### Item Details
-![Item Details](images/Product 1.png)
-![Item Details](images/Product 2.png)
+![Item Details](images/Product-1.png)
+![Item Details](images/Product-2.png)
 
 ### Shopping Cart
-![Shopping Cart](images/Shopping cart.png)
+![Shopping Cart](images/ShoppingCart.png)
 
 ## 👩‍💻 Author
 
