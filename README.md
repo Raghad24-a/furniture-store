@@ -26,6 +26,22 @@ A web application for browsing and ordering furniture online.
 4. Start Apache and MySQL.
 5. Open the project in your browser.
 
+## 📷 Screenshots
+
+### Home Page
+![Home](images/home.png)
+
+### Products
+![Products](images/products.png)
+
+### Item Details
+![Item Details](images/item-details.png)
+
+### Shopping Cart
+![Shopping Cart](images/cart.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin.png)
 ## 👩‍💻 Author
 
 Raghad
